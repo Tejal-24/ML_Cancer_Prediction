@@ -12,4 +12,4 @@ ML techniques used:
 5. SVM
 
 Logistic regression gives a better performance accuracy of 95.9 %
-
+Try also with Xgboost
